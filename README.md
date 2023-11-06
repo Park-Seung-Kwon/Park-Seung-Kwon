@@ -45,7 +45,3 @@ Here are some ideas to get you started:
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Park-Seung-Kwon&layout=compact&theme=ocean_dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
-<div align="right">
-  
- [![](https://visitcount.itsvg.in/api?id=Park-Seung-Kwon&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-</div>
